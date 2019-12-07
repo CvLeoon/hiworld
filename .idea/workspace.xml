@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e888ccc-7ce6-4388-9b2c-3526803db961" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../hiworld/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../hiworld/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../hiworld/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../hiworld/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../hiworld/hiworld.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../hiworld/src/HiWorld.java" />
+      <change beforePath="$PROJECT_DIR$/../hiworld/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../hiworld/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../hiworld/src/HiWorld.java" afterPath="$PROJECT_DIR$/../hiworld/src/HiWorld.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../hiworld/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HiWorld.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HiWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../hiworld/src/HiWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="46">
+              <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
               <folding>
                 <element signature="e#65#66#0" expanded="true" />
-                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hiworld.iml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hiworld.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../hiworld/hiworld.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -73,8 +69,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1130" />
-    <option name="y" value="233" />
+    <option name="x" value="217" />
     <option name="width" value="1400" />
     <option name="height" value="1014" />
   </component>
@@ -225,15 +220,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575717754515</updated>
-      <workItem from="1575717758264" duration="198000" />
+      <workItem from="1575717758264" duration="633000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1575718106268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575718106268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198000" />
+    <option name="totallyTimeSpent" value="633000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1130" y="233" width="1400" height="1014" extended-state="0" />
+    <frame x="217" y="0" width="1400" height="1014" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -269,27 +273,31 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../hiworld/src/HiWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding>
-            <element signature="e#65#66#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../hiworld/hiworld.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hiworld/src/HiWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
